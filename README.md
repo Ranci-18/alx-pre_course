@@ -1,2 +1,2 @@
 My first readme
-Collaboratin: be up to date
+Collaboration: be up to date
